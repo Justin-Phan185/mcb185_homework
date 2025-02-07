@@ -47,6 +47,10 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I met Christine on Thursday
 	+ Total 3 points
 - Week 5
+	+ Attended class on Tuesday
+	+ Attended class on Thursday
+	+ Met Orlando on Thursday
+	+ Total 2 points
 - Week 6
 - Week 7
 - Week 8
