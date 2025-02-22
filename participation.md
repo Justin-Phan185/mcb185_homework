@@ -52,7 +52,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Met Orlando on Thursday
 	+ Total 2 points
 - Week 6
+	+ Attended class on Tuesday
+	+ Attended class on Thursday
 - Week 7
+	+ Attended class on Tuesday
+	+ Attended class on Thursday
 - Week 8
 - Week 9
 - Week 10
