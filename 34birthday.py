@@ -20,4 +20,4 @@ for i in range(trials):
 	if collision is True:
 		collisions +=1
 		
-print(collisions/trials)
+print(collisions / trials)
