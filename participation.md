@@ -30,7 +30,8 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 1
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
-	+ Total 2 points
+	+ Met Yusef
+	+ Total 3 points
 - Week 2
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
@@ -50,10 +51,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
 	+ Met Orlando on Thursday
-	+ Total 2 points
+	+ Total 3 points
 - Week 6
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
+	+ Total 2 points
 - Week 7
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
@@ -63,4 +65,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class on Thursday
 	+ Total 2 points
 - Week 9
+	+ Attended class on Tuesday
+	+ In class paper assessment
+	+ Attended class on Thursday
+	+ Total 3 points
 - Week 10
+	+ Attended class on Tuesday
+	+ In class paper assessment
+	+ Total 2 points
+- Total 26 points
